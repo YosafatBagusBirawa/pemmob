@@ -18,3 +18,7 @@ Aplikasi ini menampilkan halaman selamat datang beserta deskripsi singkat mengen
 - Bahasa Pemrograman Kotlin
 - XML untuk Layout
 - Material Design Components
+
+##hasil
+
+![Tampilan Halaman Utama Aplikasi](ss/sstugas1.png)
