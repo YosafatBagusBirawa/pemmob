@@ -25,4 +25,4 @@ Aplikasi ini menampilkan halaman selamat datang beserta deskripsi singkat mengen
 
 ## Pertemuan 3
 
-<img src="ss/Screen_recording_20250923_220959.gif" alt="Lihat Video Pertemuan 3" width="400"/>
+<img src="ss/Screen_recording_20250923_220959.gif" alt="Lihat Video Pertemuan 3" width="200"/>
