@@ -19,6 +19,10 @@ Aplikasi ini menampilkan halaman selamat datang beserta deskripsi singkat mengen
 - XML untuk Layout
 - Material Design Components
 
-## hasil
+## Pertemuan 2
 
 ![Tampilan Halaman Utama Aplikasi](ss/sstugas1.PNG)
+
+## Pertemuan 3
+
+![Demonstrasi Fitur Pertemuan 3](ss/pertemuan3.gif)
