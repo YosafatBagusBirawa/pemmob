@@ -25,4 +25,4 @@ Aplikasi ini menampilkan halaman selamat datang beserta deskripsi singkat mengen
 
 ## Pertemuan 3
 
-![Demonstrasi Fitur Pertemuan 3](ss/pertemuan3.gif)
+[![Lihat Video Pertemuan 3](ss/pertemuan3.mp4)
