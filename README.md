@@ -29,7 +29,4 @@ Aplikasi ini menampilkan halaman selamat datang beserta deskripsi singkat mengen
 
 ## Pertemuan 4
 
-<video controls width="300">
-  <source src="ss/tugas3.mp4" type="mp4">
-  Maaf, browser Anda tidak mendukung tag video. Anda bisa mengunduh videonya [di sini](ss/tugas3.mp4).
-</video>
+<img src="ss/tugas3.gif" alt="Lihat Video Pertemuan 3" width="300"/>
