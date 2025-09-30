@@ -10,8 +10,12 @@ material = "1.10.0"
 activity = "1.8.0"
 constraintlayout = "2.1.4"
 constraintlayoutVersion = "2.2.1"
+activityKtx = "1.7.2"
+lifecycleViewmodelKtx = "2.9.4"
 
 [libraries]
+androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycleViewmodelKtx" }
+androidx-activity-ktx = { module = "androidx.activity:activity-ktx", version.ref = "activityKtx" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
