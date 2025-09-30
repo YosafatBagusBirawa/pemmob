@@ -26,3 +26,10 @@ Aplikasi ini menampilkan halaman selamat datang beserta deskripsi singkat mengen
 ## Pertemuan 3
 
 <img src="ss/Screen_recording_20250923_220959.gif" alt="Lihat Video Pertemuan 3" width="300"/>
+
+## Pertemuan 4
+
+<video controls width="300">
+  <source src="ss/tugas3.mp4" type="video/mp4">
+  Maaf, browser Anda tidak mendukung tag video. Anda bisa mengunduh videonya [di sini](ss/tugas3.mp4).
+</video>
